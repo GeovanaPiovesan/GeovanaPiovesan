@@ -1,6 +1,6 @@
 ## Olá! eu sou a Geovana
 
-💻 Hoje eu trabalho com front-end
+💻 Hoje eu trabalho com desenvolvimento de software
 📖 Estudando TypeScript e React
 📧 Contate-me no E-mail: geovanapiovesan.s@gmail.com
 
